@@ -4,6 +4,6 @@
 - [Seção 01: Introdução e Apresentação do Apache Iceberg](https://github.com/romulovieira777/Engenharia_De_Dados_Com_Apache_Iceberg_E_Spark/tree/main/Secao_01_Introducao_E_Apresentacao_Do_Apache_Iceberg)
 - [Seção 02: Fundação do Spark](https://github.com/romulovieira777/Engenharia_De_Dados_Com_Apache_Iceberg_E_Spark/tree/main/Secao_02_Fundacao_do_Spark)
 - [Seção 03: Configurando o Ambiente do Curso](https://github.com/romulovieira777/Engenharia_De_Dados_Com_Apache_Iceberg_E_Spark/tree/main/Secao_03_Configurando_o_Ambiente_do_Curso)
-- [Seção 04: Priemiros Passos, Snapshots e TimeTravel]()
+- [Seção 04: Primeiros Passos, Snapshots e TimeTravel](https://github.com/romulovieira777/Engenharia_De_Dados_Com_Apache_Iceberg_E_Spark/tree/main/Secao_04_Priemiros_Passos_Snapshots_e_Timetravel)
 
 Link para o curso: [Impacta](https://www.udemy.com/course/pache-iceberg-e-spark/?srsltid=AfmBOooPFxtWcIpfIvB9l9u76nkmqktahsNUuXBHPkvXXE8MtlkkFmoX)
