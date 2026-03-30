@@ -20,6 +20,7 @@ Principais tópicos abordados:
 ## Arquivos de apoio 📂
 - `01_Exemplo_Basico.ipynb`: introdução prática ao uso do Iceberg
 - `02_Snapshots_e_TimeTravel.ipynb`: exploração de snapshots e consultas temporais
+- `03_Snapshots_e_TimeTravel.ipynb`: exploração de snapshots e consultas temporais
 
 ## Conexão com a trilha do curso 🔗
 Com esta seção, você consolida a base prática de uso do Iceberg com Spark, conectando teoria e execução real de cenários comuns em Engenharia de Dados.
