@@ -1,32 +1,31 @@
-# Secao 02: Fundacao do Spark
+# Seção 02: Fundação do Spark ⚡
 
-## Objetivo da secao
-Apresentar os fundamentos do Apache Spark para preparar a base necessaria para o uso do Iceberg nas proximas etapas do curso.
+## Objetivo da seção 🎯
+Apresentar os fundamentos do Apache Spark para preparar a base necessária para o uso do Iceberg nas próximas etapas do curso.
 
-## Visao geral do Apache Spark
-O Apache Spark e um framework de processamento distribuido de dados, muito usado em Engenharia de Dados para transformar, analisar e processar grandes volumes de informacao.
+## Visão geral do Apache Spark 🔎
+O Apache Spark é um framework de processamento distribuído de dados, muito usado em Engenharia de Dados para transformar, analisar e processar grandes volumes de informação.
 
-Principais caracteristicas:
-- Processamento distribuido e escalavel
-- API de alto nivel para transformacoes de dados
-- Execucao eficiente para workloads batch e analiticos
-- Integracao com ecossistemas modernos de dados, incluindo Iceberg
+Principais características:
+- Processamento distribuído e escalável
+- API de alto nível para transformações de dados
+- Execução eficiente para workloads batch e analíticos
+- Integração com ecossistemas modernos de dados, incluindo Iceberg
 
-## O que voce aprende nesta secao
+## O que você aprende nesta seção 📘
 - Conceitos essenciais do Spark
-- Estrutura basica de processamento de dados no Spark
+- Estrutura básica de processamento de dados no Spark
 - Como os fundamentos do Spark se conectam ao restante da trilha do curso
 
-## Arquivo de apoio
-- `Link.txt`: referencia complementar da secao
+## Arquivo de apoio 📂
+- `Link.txt`: referência complementar da seção
 
-## Conexao com as proximas secoes
-Com a base de Spark consolidada, o curso avanca para:
-- Configuracao do ambiente de desenvolvimento
+## Conexão com as próximas seções 🔗
+Com a base de Spark consolidada, o curso avança para:
+- Configuração do ambiente de desenvolvimento
 - Primeiros passos com tabelas Iceberg
-- Snapshots e timetravel na pratica
+- Snapshots e timetravel na prática
 
-## Referencia do curso
-Link geral do curso citado no repositorio principal:
+## Referência do curso 🎓
+Link geral do curso citado no repositório principal:
 - [Impacta (Udemy)](https://www.udemy.com/course/pache-iceberg-e-spark/?srsltid=AfmBOooPFxtWcIpfIvB9l9u76nkmqktahsNUuXBHPkvXXE8MtlkkFmoX)
-
